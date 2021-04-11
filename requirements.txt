@@ -4,3 +4,5 @@ numpy==1.18.5
 matplotlib==3.3.2
 seaborn==0.11.0
 scikit_learn==0.24.1
+keras==2.3.0
+base64
